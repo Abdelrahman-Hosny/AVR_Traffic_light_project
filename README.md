@@ -1,2 +1,8 @@
-# AVR_Traffic_light_project
-Traffic light system design based on ATmega32 
+# AVR Traffic light project
+On demand traffic light system design based on ATmega32 
+
+FWD project
+12/01/2023
+
+
+
